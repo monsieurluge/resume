@@ -8,7 +8,8 @@ _8 ans d'expérience_
 
 - vergelaurent@gmail.com
 - 06.61.49.22.50 (après 18h)
-- 44 bis rue Frédéric Fabrèges, 34000 Montpellier
+- 44 bis rue Frédéric Fabrèges, 34000 Montpellier, France
+- 36 ans
 
 ---------------------------------------------
 
@@ -17,7 +18,7 @@ _8 ans d'expérience_
 ### web
  - JavaScript - NodeJS, AngularJS, Angular, JQuery, JQueryUI
  - PHP - Symfony 2 & 3
- - CSS, UX design
+ - UX design, CSS
 
 ### outils
  - GIT, Jenkins, Gulp, WebPack
@@ -209,7 +210,7 @@ Gestion du déroulement des plans batch, et support aux développeurs.
 
 Suivi des projets en relation avec les développeurs et les MOE, ainsi que de la maintenance des batch de production/qualification/recette. Suivi des plans batch et fiabilisation. Aide à la réalisation des tests effectués par les développeurs. Administration des transferts CFT.
 
-Contexte technique
+<u>Contexte technique</u>
 
 Z-OS, OPC, CFT, CORTEX, JCL, REXX
 
