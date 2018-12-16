@@ -9,36 +9,50 @@ _8 ans d'expérience_
 - vergelaurent@gmail.com
 - 06.61.49.22.50 (après 18h)
 - 44 bis rue Frédéric Fabrèges, 34000 Montpellier, France
-- 36 ans
+- 37 ans
 
 ---------------------------------------------
 
 ## Domaines de compétences
 
 ### web
- - JavaScript - NodeJS, AngularJS, Angular, JQuery, JQueryUI
- - PHP - Symfony 2 & 3
+ - JavaScript - ViewJS, NodeJS, AngularJS, Angular, JQuery, JQueryUI
+ - PHP - Symfony 3 et 4
  - UX design, CSS
 
 ### outils
- - GIT, Jenkins, Gulp, WebPack
+ - GIT, Jenkins, WebPack, Docker
 
 ### gestion de projet
  - AGILE, SCRUM
 
 ### divers
 
- - design et conception "orientés objet", programmation fonctionnelle
- - qualité du code (PSR/ESlint, respect des normes d'écriture, tests unitaires & fonctionnels)
- - recherches en maintenabilité et réduction des coûts liés à la modification du code
+ - application de design et conception "orientés objet", programmation fonctionnelle
+ - respectueux de la qualité du code (PSR/ESlint, respect des normes d'écriture, tests unitaires & fonctionnels)
+ - adepte du TDD (test driven development) et DDD (domain driven development)
+ - effectue de nombreuses recherches en maintenabilité et réduction des coûts liés à la modification du code
+ - Agiliste confirmé
 
 ---------------------------------------------
 
 ## Expériences
 
+### ADEC, Montpellier
+
+_depuis janvier 2018_
+
+Reprise des évolutions de l'application de gestion de tickets d'incidents. Refactorisation de l'ensemble de l'application pour faciliter les futures évolutions (application de design-pattern) et sécurisation des composants. Réécriture des échanges front-office <-> back-office dans le but de migrer vers une API REST.
+
+Création de l'application de gestion de tickets d'incidents qui viendra en remplacement de l'existant, ayant pour but de renforcer la sécurité des échanges, des données enregistrées, et des connexions (respect du RGPD). L'application comporte un front-office en VueJS-VueX tournant sous Electron, un back faisant office d'API REST et un "coeur métier" développé en DDD distinct du reste du code source.
+
+<u>Contexte technique</u>
+
+**front** : VueJS, JQuery, **back** : Symfony 4, MySQL, **divers** : GIT, GitLab, WebPack, Docker, méthode AGILE
+
 ### OveaSoft, Montpellier
 
-_depuis septembre 2017_
+_septembre 2017, décembre 2017_
 
 Modernisation de l'API ainsi que la partie Web de l'intranet du groupe Oxylio en réduisant la dette technique et en préparant la migration vers Angular. Ajout de nouvelles fonctionnalités à l'intranet groupe.
 
