@@ -1,6 +1,6 @@
 # Ingénieur en développement Web
 
-_8 ans d'expérience_
+_9 ans d'expérience_
 
 ---------------------------------------------
 
@@ -16,14 +16,17 @@ _8 ans d'expérience_
 ## Domaines de compétences
 
 ### web
+
  - JavaScript - ViewJS, NodeJS, AngularJS, Angular, JQuery, JQueryUI
- - PHP - Symfony 3 et 4
+ - PHP - Symfony 3 et 4, Laravel 5
  - UX design, CSS
 
 ### outils
+
  - GIT, Jenkins, WebPack, Docker
 
 ### gestion de projet
+
  - AGILE, SCRUM
 
 ### divers
@@ -31,8 +34,8 @@ _8 ans d'expérience_
  - application de design et conception "orientés objet", programmation fonctionnelle
  - respectueux de la qualité du code (PSR/ESlint, respect des normes d'écriture, tests unitaires & fonctionnels)
  - adepte du TDD (test driven development) et DDD (domain driven development)
- - effectue de nombreuses recherches en maintenabilité et réduction des coûts liés à la modification du code
- - Agiliste confirmé
+ - recherche et expérimentations en maintenabilité et réduction des coûts liés à la modification du code
+ - agiliste confirmé
 
 ---------------------------------------------
 
