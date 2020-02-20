@@ -1,6 +1,6 @@
 # Ingénieur en développement Web
 
-_9 ans d'expérience_
+_10 ans d'expérience_
 
 ---------------------------------------------
 
@@ -9,7 +9,7 @@ _9 ans d'expérience_
 - vergelaurent@gmail.com
 - 06.61.49.22.50 (après 18h)
 - 44 bis rue Frédéric Fabrèges, 34000 Montpellier, France
-- 37 ans
+- 38 ans
 
 ---------------------------------------------
 
@@ -51,7 +51,7 @@ Création de l'application de gestion de tickets d'incidents qui viendra en remp
 
 <u>Contexte technique</u>
 
-**front** : VueJS, JQuery, **back** : Symfony 4, MySQL, **divers** : GIT, GitLab, WebPack, Docker, méthode AGILE
+**front** : VueJS, VueX, JQuery, **back** : Symfony 4, Laravel 5, MySQL, **divers** : GIT, GitLab, WebPack, Docker, méthode AGILE
 
 ### OveaSoft, Montpellier
 
