@@ -11,6 +11,18 @@ _10 ans d'expérience_
 - 44 bis rue Frédéric Fabrèges, 34000 Montpellier, France
 - 38 ans
 
+---
+
+## Profil
+
+Développeur web depuis environ 10 ans, j'ai essentiellement travaillé en environnement PHP (Symfony et Laravel) et Javascript (natif, JQuery, Vue, Angular) sur des projets legacy à maintenir / évoluer mais aussi sur des projets à monter de toutes pièces comportant tantôt une API RESTful, tantôt une stack complète en JS, parfois sous environnement docker.
+
+Très friand de collaboration et d'amélioration permanente je me considère comme Agiliste confirmé (expérience de Scrum master, etc) ; par extension je fais mon possible pour coller à l'esprit DevOps quand l'environnement le permet.
+
+Je porte une attention toute particulière à la qualité du code, que ce soit par l'intermédiaire du TDD, de l'application de pattern reconnus efficaces, des principes SOLID, de l'analyse statique de code et globalement par l'application de bonnes pratiques.
+
+Les approches de développement qui me tiennent à coeur : orienté objet (SOLID, tell don't ask, composition > héritage, pas de getter/setter, etc) et programmation fonctionnelle.
+
 ---------------------------------------------
 
 ## Domaines de compétences
@@ -43,7 +55,7 @@ _10 ans d'expérience_
 
 ### ADEC, Montpellier
 
-_depuis janvier 2018_
+_janvier 2018, avril 2020_
 
 Reprise des évolutions de l'application de gestion de tickets d'incidents. Refactorisation de l'ensemble de l'application pour faciliter les futures évolutions (application de design-pattern) et sécurisation des composants. Réécriture des échanges front-office <-> back-office dans le but de migrer vers une API REST.
 
@@ -247,6 +259,8 @@ Z-OS, OPC, CFT, CORTEX, JCL, REXX, Scripting SHELL
 
 ## Formations
 
+ - 2020 : Autoformation Python & Django
+ - 2019 : Culture DevOps
  - 2016 : Symfony 3, SCRUM Master
  - 2008 : Administration Symantec Netbackup 6.5, Maîtriser Unix, Découverte d'Oracle 10G et SQL+
  - 2006 : École de pilotage MVS, JCL et utilitaires, OPC

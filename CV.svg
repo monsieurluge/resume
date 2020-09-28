@@ -87,8 +87,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="264.09689"
-     inkscape:cy="585.94892"
+     inkscape:cx="260.96313"
+     inkscape:cy="559.33111"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
@@ -97,9 +97,9 @@
      inkscape:guide-bbox="true"
      inkscape:snap-path-clip="false"
      inkscape:window-width="2560"
-     inkscape:window-height="1388"
+     inkscape:window-height="1403"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -315,45 +315,34 @@
        transform="translate(3.0114741,17.298671)"><tspan
          x="12"
          y="67.833611"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">Développeur web depuis </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">environ 10 </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">Développeur web depuis environ 10 </tspan></tspan><tspan
          x="12"
          y="71.361389"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">ans, j'ai </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">essentiellement travaillé en </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">ans, j'ai essentiellement travaillé en </tspan></tspan><tspan
          x="12"
          y="74.889167"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">environnement PHP (Symfony </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">et </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">environnement PHP (Symfony et </tspan></tspan><tspan
          x="12"
          y="78.416946"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">Laravel) et Javascript (natif, </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">JQuery, </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">Laravel) et Javascript (natif, JQuery, </tspan></tspan><tspan
          x="12"
          y="81.944725"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">Vue, Angular) sur des </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">projets legacy </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">Vue, Angular) sur des projets legacy à </tspan></tspan><tspan
          x="12"
          y="85.472503"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">franchement </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">mal fichus mais aussi sur </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">maintenir / évoluer mais aussi sur des </tspan></tspan><tspan
          x="12"
          y="89.000282"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">des </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">projets à monter de toutes </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">pièces </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">projets à monter de toutes pièces </tspan></tspan><tspan
          x="12"
          y="92.528061"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">comportant tantôt une </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">API RESTful, </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">comportant tantôt une API RESTful, </tspan></tspan><tspan
          x="12"
          y="96.055839"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">tantôt une stack </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">complète en JS, </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">tantôt une stack complète en JS, </tspan></tspan><tspan
          x="12"
          y="99.583618"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">parfois sous </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">environnement docker.
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">parfois sous environnement docker.
 </tspan></tspan><tspan
          x="12"
          y="103.1114"><tspan
@@ -364,24 +353,19 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">Très friand de collaboration et </tspan></tspan><tspan
          x="12"
          y="110.16695"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">d'amélioration permanente je </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">me </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">d'amélioration permanente je me </tspan></tspan><tspan
          x="12"
          y="113.69473"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">considère comme Agiliste </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">confirmé </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">considère comme Agiliste confirmé </tspan></tspan><tspan
          x="12"
          y="117.22251"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">(expérience de Scrum </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">master, etc) ; par </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">(expérience de Scrum master, etc) ; par </tspan></tspan><tspan
          x="12"
          y="120.75029"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">extension je </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">fais mon possible pour </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">extension je fais mon possible pour </tspan></tspan><tspan
          x="12"
          y="124.27807"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">coller à </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">l'esprit DevOps quand </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">coller à l'esprit DevOps quand </tspan></tspan><tspan
          x="12"
          y="127.80585"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">l'environnement le permet.
@@ -395,28 +379,22 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">Je porte une attention toute </tspan></tspan><tspan
          x="12"
          y="138.38916"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">particulière à la qualité du </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">code, que ce </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">particulière à la qualité du code, que ce </tspan></tspan><tspan
          x="12"
          y="141.91693"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">soit par </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">l'intermédiaire du TDD, de </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">soit par l'intermédiaire du TDD, de </tspan></tspan><tspan
          x="12"
          y="145.4447"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">l'application de pattern </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">reconnus </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">l'application de pattern reconnus </tspan></tspan><tspan
          x="12"
          y="148.97247"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">efficaces, des </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">principes SOLID, de </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">efficaces, des principes SOLID, de </tspan></tspan><tspan
          x="12"
          y="152.50024"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">l'analyse </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">statique de code et </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">l'analyse statique de code et </tspan></tspan><tspan
          x="12"
          y="156.02801"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">globalement par l'application </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">de </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">globalement par l'application de </tspan></tspan><tspan
          x="12"
          y="159.55579"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">bonnes pratiques.
@@ -427,20 +405,16 @@
 </tspan></tspan><tspan
          x="12"
          y="166.61133"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">Les approches de </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">développement qui </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">Les approches de développement qui </tspan></tspan><tspan
          x="12"
          y="170.1391"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">me </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">tiennent à coeur : orienté objet </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">me tiennent à coeur : orienté objet </tspan></tspan><tspan
          x="12"
          y="173.66687"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">(SOLID, tell don't ask, </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">composition &gt; </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">(SOLID, tell don't ask, composition &gt; </tspan></tspan><tspan
          x="12"
          y="177.19464"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">héritage, pas de </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">getter/setter, etc) et </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">héritage, pas de getter/setter, etc) et </tspan></tspan><tspan
          x="12"
          y="180.72241"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4a4a4a;fill-opacity:1;stroke-width:0.264583">programmation fonctionnelle.</tspan></tspan></text>
@@ -580,526 +554,516 @@
          y="33.491459"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.64444px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">DÉVELOPPEUR WEB SENIOR</tspan></text>
     <g
-       id="g2302">
-      <rect
-         style="display:inline;fill:#856300;fill-opacity:1;stroke-width:0.30312;stop-color:#000000"
-         id="rect1238-8"
-         width="6"
-         height="56.257248"
-         x="71.529167"
-         y="52.137245" />
-      <rect
-         style="fill:#febb00;fill-opacity:1;stroke-width:0.303119;stop-color:#000000"
-         id="rect1238"
-         width="6"
-         height="56.257248"
-         x="71"
-         y="51.608078" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="-105.01375"
-         y="75.40229"
-         id="text1242"
-         transform="rotate(-90)"><tspan
-           sodipodi:role="line"
-           id="tspan1240"
-           x="-105.01375"
-           y="75.40229"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">DERNIÈRES EXPÉRIENCES</tspan></text>
-    </g>
-    <g
-       id="g2350">
-      <rect
-         style="display:inline;fill:#866100;fill-opacity:1;stroke-width:0.231803;stop-color:#000000"
-         id="rect1238-5-1"
-         width="6"
-         height="32.899639"
-         x="71.529167"
-         y="250.84343" />
-      <rect
-         style="fill:#febb00;fill-opacity:1;stroke-width:0.231803;stop-color:#000000"
-         id="rect1238-5"
-         width="6"
-         height="32.899639"
-         x="71"
-         y="250.31427" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="-280.34985"
-         y="75.40229"
-         id="text1242-3"
-         transform="rotate(-90)"><tspan
-           sodipodi:role="line"
-           id="tspan1240-8"
-           x="-280.34985"
-           y="75.40229"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">FORMATIONS</tspan></text>
-    </g>
-    <g
-       id="g2762"
-       transform="translate(0,-7.1823587)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="84.671944"
-         y="284.36093"
-         id="text1277-2"><tspan
-           sodipodi:role="line"
-           id="tspan1275-9"
-           x="84.671944"
-           y="284.36093"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583"><tspan
-   style="fill:#ffffff;fill-opacity:1"
-   id="tspan1821">DUT informatique génie logiciel</tspan> /// 2002</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="84.703697"
-         y="278.53537"
-         id="text1277-2-6"><tspan
-           sodipodi:role="line"
-           id="tspan1275-9-8"
-           x="84.703697"
-           y="278.53537"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583"><tspan
-   style="fill:#ffffff;fill-opacity:1"
-   id="tspan1860">Fondamentaux UNIX</tspan> /// 2008</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="84.883614"
-         y="272.22037"
-         id="text1277-2-0"><tspan
-           sodipodi:role="line"
-           id="tspan1275-9-7"
-           x="84.883614"
-           y="272.22037"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583"><tspan
-   style="fill:#ffffff;fill-opacity:1"
-   id="tspan1880">Sécuriser une application Symfony 3</tspan> /// 2016</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="84.883614"
-         y="266.37808"
-         id="text1277-2-0-6"><tspan
-           sodipodi:role="line"
-           id="tspan1275-9-7-4"
-           x="84.883614"
-           y="266.37808"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583"><tspan
-   style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-   id="tspan1880-8">Scrum master</tspan> /// 2016</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="84.671944"
-         y="260.06308"
-         id="text1277-2-0-2"><tspan
-           sodipodi:role="line"
-           id="tspan1275-9-7-9"
-           x="84.671944"
-           y="260.06308"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583"><tspan
-   style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-   id="tspan1880-5">Culture DevOps</tspan> /// 2019</tspan></text>
-    </g>
-    <g
-       id="g2326">
-      <rect
-         style="display:inline;fill:#846000;fill-opacity:1;stroke-width:0.208957;stop-color:#000000"
-         id="rect1238-5-5-0"
-         width="6"
-         height="26.734236"
-         x="71.529167"
-         y="204.15479" />
-      <rect
-         style="fill:#febb00;fill-opacity:1;stroke-width:0.208957;stop-color:#000000"
-         id="rect1238-5-5"
-         width="6"
-         height="26.734234"
-         x="71"
-         y="203.62563" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="-227.46283"
-         y="75.40229"
-         id="text1242-3-8"
-         transform="rotate(-90)"><tspan
-           sodipodi:role="line"
-           id="tspan1240-8-9"
+       id="g2177"
+       transform="translate(0,-2.6458334)">
+      <g
+         id="g2326">
+        <rect
+           style="display:inline;fill:#846000;fill-opacity:1;stroke-width:0.208957;stop-color:#000000"
+           id="rect1238-5-5-0"
+           width="6"
+           height="26.734236"
+           x="71.529167"
+           y="204.15479" />
+        <rect
+           style="fill:#febb00;fill-opacity:1;stroke-width:0.208957;stop-color:#000000"
+           id="rect1238-5-5"
+           width="6"
+           height="26.734234"
+           x="71"
+           y="203.62563" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2a2c38;fill-opacity:1;stroke:none;stroke-width:0.264583"
            x="-227.46283"
            y="75.40229"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">EXPERTISE</tspan></text>
-    </g>
-    <g
-       id="g2731"
-       transform="translate(0,-9.4565439)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="84.828957"
-         y="215.60629"
-         id="text1277-2-0-2-6"><tspan
-           sodipodi:role="line"
-           id="tspan1275-9-7-9-9"
+           id="text1242-3-8"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1240-8-9"
+             x="-227.46283"
+             y="75.40229"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2a2c38;fill-opacity:1;stroke-width:0.264583">EXPERTISE</tspan></text>
+      </g>
+      <g
+         id="g2731"
+         transform="translate(0,-9.4565439)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
            x="84.828957"
            y="215.60629"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583">FRONT-END</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:31.7845;display:inline;fill:#edeef1;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="12"
-         y="67.833611"
-         id="text1243-2-4"
-         transform="translate(73.175031,152.68426)"><tspan
+           id="text1277-2-0-2-6"><tspan
+             sodipodi:role="line"
+             id="tspan1275-9-7-9-9"
+             x="84.828957"
+             y="215.60629"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583">FRONT-END</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:31.7845;display:inline;fill:#edeef1;fill-opacity:1;stroke:none;stroke-width:0.264583"
            x="12"
-           y="67.833611"><tspan>Javascript
+           y="67.833611"
+           id="text1243-2-4"
+           transform="translate(73.175031,152.68426)"><tspan
+             x="12"
+             y="67.833611"><tspan>Javascript
 </tspan></tspan><tspan
-           x="12"
-           y="71.361389"><tspan>Vue </tspan><tspan
-             style="fill:#707690;fill-opacity:1">&amp;</tspan><tspan> VueX
+             x="12"
+             y="71.361389"><tspan>Vue </tspan><tspan
+               style="fill:#707690;fill-opacity:1">&amp;</tspan><tspan> VueX
 </tspan></tspan><tspan
-           x="12"
-           y="74.889167"><tspan>Node
+             x="12"
+             y="74.889167"><tspan>Node
 </tspan></tspan><tspan
-           x="12"
-           y="78.416946"><tspan>JQuery </tspan><tspan
-             style="fill:#70778f;fill-opacity:1">&amp;</tspan><tspan> JQuery UI
+             x="12"
+             y="78.416946"><tspan>JQuery </tspan><tspan
+               style="fill:#70778f;fill-opacity:1">&amp;</tspan><tspan> JQuery UI
 </tspan></tspan><tspan
-           x="12"
-           y="81.944725"><tspan>CSS
+             x="12"
+             y="81.944725"><tspan>CSS
 </tspan></tspan><tspan
+             x="12"
+             y="85.472503"><tspan>UX design</tspan></tspan></text>
+      </g>
+      <g
+         id="g2738"
+         transform="translate(0,-9.4556589)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="121.68167"
+           y="215.60541"
+           id="text1277-2-0-2-6-1"><tspan
+             sodipodi:role="line"
+             id="tspan1275-9-7-9-9-0"
+             x="121.68167"
+             y="215.60541"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583">BACK-END</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:31.7845;display:inline;fill:#edeef1;fill-opacity:1;stroke:none;stroke-width:0.264583"
            x="12"
-           y="85.472503"><tspan>UX design</tspan></tspan></text>
-    </g>
-    <g
-       id="g2738"
-       transform="translate(0,-9.4556589)">
+           y="67.833611"
+           id="text1243-2-4-0"
+           transform="translate(109.9713,152.58266)"><tspan
+             x="12"
+             y="67.833611"><tspan>PHP
+</tspan></tspan><tspan
+             x="12"
+             y="71.361389"><tspan>Symfony
+</tspan></tspan><tspan
+             x="12"
+             y="74.889167"><tspan>Laravel
+</tspan></tspan><tspan
+             x="12"
+             y="78.416946"><tspan>MySQL </tspan><tspan
+               style="fill:#70778e;fill-opacity:1">&amp;</tspan><tspan> MariaDB
+</tspan></tspan><tspan
+             x="12"
+             y="81.944725"><tspan>MongoDB
+</tspan></tspan><tspan
+             x="12"
+             y="85.472503"><tspan>Docker
+</tspan></tspan><tspan
+             x="12"
+             y="89.000282"><tspan>Webpack
+</tspan></tspan></text>
+      </g>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="121.68167"
-         y="215.60541"
-         id="text1277-2-0-2-6-1"><tspan
+         x="159.08865"
+         y="206.1498"
+         id="text1277-2-0-2-6-6"><tspan
            sodipodi:role="line"
-           id="tspan1275-9-7-9-9-0"
-           x="121.68167"
-           y="215.60541"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583">BACK-END</tspan></text>
+           id="tspan1275-9-7-9-9-1"
+           x="159.08865"
+           y="206.1498"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583">AUTRES DOMAINES</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:31.7845;display:inline;fill:#edeef1;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="12"
          y="67.833611"
-         id="text1243-2-4-0"
-         transform="translate(109.9713,152.58266)"><tspan
+         id="text1243-2-4-3"
+         transform="translate(147.11194,143.34235)"><tspan
            x="12"
-           y="67.833611"><tspan>PHP
+           y="67.833611"><tspan>Agilité </tspan><tspan
+             style="fill:#717c90;fill-opacity:1">&amp;</tspan><tspan> SCRUM
 </tspan></tspan><tspan
            x="12"
-           y="71.361389"><tspan>Symfony
+           y="71.361389"><tspan>approche TDD </tspan><tspan
+             style="fill:#6f778e;fill-opacity:1">&amp;</tspan><tspan> DDD
 </tspan></tspan><tspan
            x="12"
-           y="74.889167"><tspan>Laravel
+           y="74.889167"><tspan>design orienté objets
 </tspan></tspan><tspan
            x="12"
-           y="78.416946"><tspan>MySQL </tspan><tspan
-             style="fill:#70778e;fill-opacity:1">&amp;</tspan><tspan> MariaDB
+           y="78.416946"><tspan>design d'API RESTful
 </tspan></tspan><tspan
            x="12"
-           y="81.944725"><tspan>MongoDB
+           y="81.944725"><tspan>GIT
 </tspan></tspan><tspan
            x="12"
-           y="85.472503"><tspan>Docker
+           y="85.472503"><tspan>Gitlab </tspan><tspan
+             style="fill:#71778e;fill-opacity:1">&amp;</tspan><tspan> Gitlab CI/CD
 </tspan></tspan><tspan
            x="12"
-           y="89.000282"><tspan>Webpack
-</tspan></tspan></text>
+           y="89.000282"><tspan>Jenkins</tspan></tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="159.08865"
-       y="206.1498"
-       id="text1277-2-0-2-6-6"><tspan
-         sodipodi:role="line"
-         id="tspan1275-9-7-9-9-1"
-         x="159.08865"
-         y="206.1498"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583">AUTRES DOMAINES</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:31.7845;display:inline;fill:#edeef1;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="12"
-       y="67.833611"
-       id="text1243-2-4-3"
-       transform="translate(147.11194,143.34235)"><tspan
-         x="12"
-         y="67.833611"><tspan>Agilité </tspan><tspan
-           style="fill:#717c90;fill-opacity:1">&amp;</tspan><tspan> SCRUM
-</tspan></tspan><tspan
-         x="12"
-         y="71.361389"><tspan>approche TDD </tspan><tspan
-           style="fill:#6f778e;fill-opacity:1">&amp;</tspan><tspan> DDD
-</tspan></tspan><tspan
-         x="12"
-         y="74.889167"><tspan>design orienté objets
-</tspan></tspan><tspan
-         x="12"
-         y="78.416946"><tspan>design d'API RESTful
-</tspan></tspan><tspan
-         x="12"
-         y="81.944725"><tspan>GIT
-</tspan></tspan><tspan
-         x="12"
-         y="85.472503"><tspan>Gitlab </tspan><tspan
-           style="fill:#71778e;fill-opacity:1">&amp;</tspan><tspan> Gitlab CI/CD
-</tspan></tspan><tspan
-         x="12"
-         y="89.000282"><tspan>Jenkins</tspan></tspan></text>
     <g
-       id="g2234"
-       transform="translate(0,0.1887141)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:111.355;fill:#edeef1;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="12"
-         y="67.833611"
-         id="text1243-2"
-         transform="translate(72.892289,-2.7096149)"><tspan
-           x="12"
-           y="67.833611"><tspan>Reprise des évolutions de l'application de gestion de tickets d'incidents. Chantier de </tspan></tspan><tspan
-           x="12"
-           y="71.361389"><tspan>refactorisation afin de faciliter les futures évolutions (application de design-patterns), </tspan></tspan><tspan
-           x="12"
-           y="74.889167"><tspan>sécurisation des composants, réécriture des échanges front-office &lt;-&gt; back-office dans </tspan></tspan><tspan
-           x="12"
-           y="78.416946"><tspan>le but de migrer vers une API REST.
-</tspan></tspan><tspan
-           x="12"
-           y="81.944725"><tspan>
-</tspan></tspan><tspan
-           x="12"
-           y="85.472503"><tspan>Création de la future application de gestion de tickets d'incidents. Objectifs : renforcer </tspan></tspan><tspan
-           x="12"
-           y="89.000282"><tspan>la sécurité des échanges, stucturer et documenter les données enregistrées (RGPD), </tspan></tspan><tspan
-           x="12"
-           y="92.528061"><tspan>proposer une interface moderne, proposer une API RESTful, déploiement continu.</tspan></tspan></text>
+       id="g2313">
       <g
-         id="g2198"
-         transform="translate(0,-0.52916667)">
+         id="g2241"
+         transform="translate(0,3.6595343)">
+        <rect
+           style="display:inline;fill:#856300;fill-opacity:1;stroke-width:0.312547;stop-color:#000000"
+           id="rect1238-8"
+           width="6"
+           height="59.811146"
+           x="71.529167"
+           y="48.583347" />
+        <rect
+           style="fill:#febb00;fill-opacity:1;stroke-width:0.312814;stop-color:#000000"
+           id="rect1238"
+           width="6"
+           height="59.913284"
+           x="71"
+           y="47.938416" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           x="85.13382"
-           y="58.651646"
-           id="text1277"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2a2c38;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-105.01375"
+           y="75.40229"
+           id="text1242"
+           transform="rotate(-90)"><tspan
              sodipodi:role="line"
-             id="tspan1275"
+             id="tspan1240"
+             x="-105.01375"
+             y="75.40229"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2a2c38;fill-opacity:1;stroke-width:0.264583">DERNIÈRES EXPÉRIENCES</tspan></text>
+      </g>
+      <g
+         id="g2234"
+         transform="translate(0,0.1887141)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:111.355;fill:#edeef1;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="12"
+           y="67.833611"
+           id="text1243-2"
+           transform="translate(72.892289,-2.7096149)"><tspan
+             x="12"
+             y="67.833611"><tspan>Reprise des évolutions de l'application de gestion de tickets d'incidents. Chantier de </tspan></tspan><tspan
+             x="12"
+             y="71.361389"><tspan>refactorisation afin de faciliter les futures évolutions (application de design-patterns), </tspan></tspan><tspan
+             x="12"
+             y="74.889167"><tspan>sécurisation des composants, réécriture des échanges front-office &lt;-&gt; back-office dans </tspan></tspan><tspan
+             x="12"
+             y="78.416946"><tspan>le but de migrer vers une API REST.
+</tspan></tspan><tspan
+             x="12"
+             y="81.944725"><tspan>
+</tspan></tspan><tspan
+             x="12"
+             y="85.472503"><tspan>Création de la future application de gestion de tickets d'incidents. Objectifs : renforcer </tspan></tspan><tspan
+             x="12"
+             y="89.000282"><tspan>la sécurité des échanges, stucturer et documenter les données enregistrées (RGPD), </tspan></tspan><tspan
+             x="12"
+             y="92.528061"><tspan>proposer une interface moderne, proposer une API RESTful, déploiement continu.</tspan></tspan></text>
+        <g
+           id="g2198"
+           transform="translate(0,-0.52916667)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
              x="85.13382"
              y="58.651646"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52778px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583">ADEC /// janvier 2018 - avril 2020</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           x="85.016701"
-           y="55.043095"
-           id="text1219-6"><tspan
-             sodipodi:role="line"
-             id="tspan1217-8"
+             id="text1277"><tspan
+               sodipodi:role="line"
+               id="tspan1275"
+               x="85.13382"
+               y="58.651646"
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52778px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583">ADEC /// janvier 2018 - avril 2020</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
              x="85.016701"
              y="55.043095"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">CHEF DE PROJET</tspan></text>
+             id="text1219-6"><tspan
+               sodipodi:role="line"
+               id="tspan1217-8"
+               x="85.016701"
+               y="55.043095"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">CHEF DE PROJET</tspan></text>
+        </g>
       </g>
-    </g>
-    <g
-       id="g2256">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:111.355;display:inline;fill:#edeef1;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="12"
-         y="67.833611"
-         id="text1243-2-1"
-         transform="translate(72.794692,47.552035)"><tspan
-           x="12"
-           y="67.833611"><tspan>Modernisation de l'API ainsi que la partie Web de l'intranet du groupe Oxylio en </tspan></tspan><tspan
-           x="12"
-           y="71.361389"><tspan>réduisant la dette technique et en préparant la migration vers Angular. Ajout de </tspan></tspan><tspan
-           x="12"
-           y="74.889167"><tspan>nouvelles fonctionnalités à l'intranet groupe.
-</tspan></tspan><tspan
-           x="12"
-           y="78.416946"><tspan>
-</tspan></tspan><tspan
-           x="12"
-           y="81.944725"><tspan>Consolidation de la pratique de l'Agilité au sein de l'équipe via : prise en charge de </tspan></tspan><tspan
-           x="12"
-           y="85.472503"><tspan>l'organisation du sprint planning, aide à la rédaction des &quot;user stories&quot;, organisation </tspan></tspan><tspan
-           x="12"
-           y="89.000282"><tspan>des rétrospectives.</tspan></tspan></text>
       <g
-         id="g2204"
-         transform="translate(0,-0.52916667)">
+         id="g2256">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           x="84.973305"
-           y="108.86526"
-           id="text1277-3"><tspan
-             sodipodi:role="line"
-             id="tspan1275-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:111.355;display:inline;fill:#edeef1;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="12"
+           y="67.833611"
+           id="text1243-2-1"
+           transform="translate(72.794692,47.552035)"><tspan
+             x="12"
+             y="67.833611"><tspan>Modernisation de l'API ainsi que la partie Web de l'intranet du groupe Oxylio en </tspan></tspan><tspan
+             x="12"
+             y="71.361389"><tspan>réduisant la dette technique et en préparant la migration vers Angular. Ajout de </tspan></tspan><tspan
+             x="12"
+             y="74.889167"><tspan>nouvelles fonctionnalités à l'intranet groupe.
+</tspan></tspan><tspan
+             x="12"
+             y="78.416946"><tspan>
+</tspan></tspan><tspan
+             x="12"
+             y="81.944725"><tspan>Consolidation de la pratique de l'Agilité au sein de l'équipe via : prise en charge de </tspan></tspan><tspan
+             x="12"
+             y="85.472503"><tspan>l'organisation du sprint planning, aide à la rédaction des &quot;user stories&quot;, organisation </tspan></tspan><tspan
+             x="12"
+             y="89.000282"><tspan>des rétrospectives.</tspan></tspan></text>
+        <g
+           id="g2204"
+           transform="translate(0,-0.52916667)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
              x="84.973305"
              y="108.86526"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583"
-             dx="0 0 0 0 0 0 0 0 0"
-             rotate="0 0 0 0 0 0 0 0 0 0">OVEASOFT /// septembre 2017 - décembre 2017</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           x="84.838898"
-           y="105.21348"
-           id="text1219-6-4"><tspan
-             sodipodi:role="line"
-             id="tspan1217-8-0"
+             id="text1277-3"><tspan
+               sodipodi:role="line"
+               id="tspan1275-2"
+               x="84.973305"
+               y="108.86526"
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583"
+               dx="0 0 0 0 0 0 0 0 0"
+               rotate="0 0 0 0 0 0 0 0 0 0">OVEASOFT /// septembre 2017 - décembre 2017</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
              x="84.838898"
              y="105.21348"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">DÉVELOPPEUR WEB</tspan></text>
+             id="text1219-6-4"><tspan
+               sodipodi:role="line"
+               id="tspan1217-8-0"
+               x="84.838898"
+               y="105.21348"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">DÉVELOPPEUR WEB</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2278"
+         transform="translate(0,-4.7625002)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:111.355;display:inline;fill:#edeef1;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="12"
+           y="67.833611"
+           id="text1243-2-1-4"
+           transform="translate(72.90727,98.798735)"><tspan
+             x="12"
+             y="67.833611"><tspan
+               style="display:inline">Missions longues pour les clients Wonderful et La Poste (DSI courrier).
+</tspan></tspan><tspan
+             x="12"
+             y="71.361389"><tspan
+               style="display:inline">
+</tspan></tspan><tspan
+             x="12"
+             y="74.889167"><tspan
+               style="display:inline">Ces missions variées ont demandé de l'expertise dans les domaines suivants : </tspan></tspan><tspan
+             x="12"
+             y="78.416946"><tspan
+               style="display:inline">conception, modélisation technique, création documentation et correction d'API REST,  </tspan></tspan><tspan
+             x="12"
+             y="81.944725"><tspan
+               style="display:inline">initialisation de projets, initialisation de plateforme de déploiement, conception de </tspan></tspan><tspan
+             x="12"
+             y="85.472503"><tspan
+               style="display:inline">modèle relationel, optimisation et refactorisation de code &quot;legacy&quot;, mentorat et </tspan></tspan><tspan
+             x="12"
+             y="89.000282"><tspan
+               style="display:inline">assistance, application de bonnes pratiques de code.</tspan></tspan></text>
+        <g
+           id="g2210"
+           transform="translate(0,-0.52916667)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="84.973305"
+             y="160.35062"
+             id="text1277-3-1"><tspan
+               sodipodi:role="line"
+               id="tspan1275-2-9"
+               x="84.973305"
+               y="160.35062"
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583"
+               dx="0 0 0 0 0 0 0 0 0"
+               rotate="0 0 0 0 0 0 0 0 0 0">CONSERTO /// février 2015 - août 2017</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="84.838898"
+             y="156.67921"
+             id="text1219-6-4-4"><tspan
+               sodipodi:role="line"
+               id="tspan1217-8-0-4"
+               x="84.838898"
+               y="156.67921"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">DÉVELOPPEUR WEB</tspan></text>
+        </g>
       </g>
     </g>
     <g
-       id="g2278"
-       transform="translate(0,-4.7625002)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:111.355;display:inline;fill:#edeef1;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="12"
-         y="67.833611"
-         id="text1243-2-1-4"
-         transform="translate(72.90727,98.798735)"><tspan
-           x="12"
-           y="67.833611"><tspan
-             style="display:inline">Missions longues pour les clients Wonderful et La Poste (DSI courrier).
-</tspan></tspan><tspan
-           x="12"
-           y="71.361389"><tspan
-             style="display:inline">
-</tspan></tspan><tspan
-           x="12"
-           y="74.889167"><tspan
-             style="display:inline">Ces missions variées ont demandé de l'expertise dans les domaines suivants : </tspan></tspan><tspan
-           x="12"
-           y="78.416946"><tspan
-             style="display:inline">conception, modélisation technique, création documentation et correction d'API REST,  </tspan></tspan><tspan
-           x="12"
-           y="81.944725"><tspan
-             style="display:inline">initialisation de projets, initialisation de plateforme de déploiement, conception de </tspan></tspan><tspan
-           x="12"
-           y="85.472503"><tspan
-             style="display:inline">modèle relationel, optimisation et refactorisation de code &quot;legacy&quot;, mentorat et </tspan></tspan><tspan
-           x="12"
-           y="89.000282"><tspan
-             style="display:inline">assistance, application de bonnes pratiques de code.</tspan></tspan></text>
+       id="g2231"
+       transform="translate(0,-3.1750001)">
       <g
-         id="g2210"
-         transform="translate(0,-0.52916667)">
+         id="g2350">
+        <rect
+           style="display:inline;fill:#866100;fill-opacity:1;stroke-width:0.231803;stop-color:#000000"
+           id="rect1238-5-1"
+           width="6"
+           height="32.899639"
+           x="71.529167"
+           y="250.84343" />
+        <rect
+           style="fill:#febb00;fill-opacity:1;stroke-width:0.231803;stop-color:#000000"
+           id="rect1238-5"
+           width="6"
+           height="32.899639"
+           x="71"
+           y="250.31427" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2a2c38;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-280.34985"
+           y="75.40229"
+           id="text1242-3"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1240-8"
+             x="-280.34985"
+             y="75.40229"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2a2c38;fill-opacity:1;stroke-width:0.264583">FORMATIONS</tspan></text>
+      </g>
+      <g
+         id="g2201"
+         transform="translate(0,-5.2869195)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           x="84.973305"
-           y="160.35062"
-           id="text1277-3-1"><tspan
+           x="84.671944"
+           y="283.68677"
+           id="text1277-2"><tspan
              sodipodi:role="line"
-             id="tspan1275-2-9"
-             x="84.973305"
-             y="160.35062"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583"
-             dx="0 0 0 0 0 0 0 0 0"
-             rotate="0 0 0 0 0 0 0 0 0 0">CONSERTO /// février 2015 - août 2017</tspan></text>
+             id="tspan1275-9"
+             x="84.671944"
+             y="283.68677"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583"><tspan
+   style="fill:#ffffff;fill-opacity:1"
+   id="tspan1821">DUT informatique génie logiciel</tspan> /// 2002</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           x="84.838898"
-           y="156.67921"
-           id="text1219-6-4-4"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="84.703697"
+           y="278.91956"
+           id="text1277-2-6"><tspan
              sodipodi:role="line"
-             id="tspan1217-8-0-4"
-             x="84.838898"
-             y="156.67921"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">DÉVELOPPEUR WEB</tspan></text>
+             id="tspan1275-9-8"
+             x="84.703697"
+             y="278.91956"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583"><tspan
+   style="fill:#ffffff;fill-opacity:1"
+   id="tspan1860">Fondamentaux UNIX</tspan> /// 2008</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="84.883614"
+           y="273.6629"
+           id="text1277-2-0"><tspan
+             sodipodi:role="line"
+             id="tspan1275-9-7"
+             x="84.883614"
+             y="273.6629"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583"><tspan
+   style="fill:#ffffff;fill-opacity:1"
+   id="tspan1880">Sécuriser une application Symfony 3</tspan> /// 2016</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="84.883614"
+           y="268.87897"
+           id="text1277-2-0-6"><tspan
+             sodipodi:role="line"
+             id="tspan1275-9-7-4"
+             x="84.883614"
+             y="268.87897"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583"><tspan
+   style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+   id="tspan1880-8">Scrum master</tspan> /// 2016</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="84.671944"
+           y="263.62231"
+           id="text1277-2-0-2"><tspan
+             sodipodi:role="line"
+             id="tspan1275-9-7-9"
+             x="84.671944"
+             y="263.62231"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583"><tspan
+   style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+   id="tspan1880-5">Culture DevOps</tspan> /// 2019</tspan></text>
+        <g
+           id="g1216"
+           transform="translate(0,11.79987)">
+          <g
+             id="g1210">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+               x="84.671944"
+               y="246.4816"
+               id="text1277-2-0-2-3"><tspan
+                 sodipodi:role="line"
+                 id="tspan1275-9-7-9-6"
+                 x="84.671944"
+                 y="246.4816"
+                 style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583"><tspan
+   style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+   id="tspan1880-5-7">Autoformation Python <tspan
+   style="fill:#707690;fill-opacity:1"
+   id="tspan2041">&amp;</tspan> Django <tspan
+   style="fill:#707690;fill-opacity:1"
+   id="tspan2105">(en cours)</tspan></tspan> /// 2020</tspan></text>
+          </g>
+        </g>
       </g>
     </g>
     <g
-       id="g2494"
-       transform="translate(-78.989124,0.55308063)">
-      <g
-         id="g2450-6"
-         transform="matrix(0.50203806,0.15788895,-0.15788895,0.50203806,81.206403,-12.931141)"
-         style="display:inline;fill:#715c25;fill-opacity:1">
-        <circle
-           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#715c25;fill-opacity:1;stroke:none;stroke-width:0.765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-           id="path2393-1"
-           cx="172.71512"
-           cy="39.226303"
-           r="6.7194095" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#715c25;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           x="167.70557"
-           y="41.068939"
-           id="text2397-3"><tspan
-             sodipodi:role="line"
-             id="tspan2395-2"
-             x="167.70557"
-             y="41.068939"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.46667px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#715c25;fill-opacity:1;stroke-width:0.264583">10</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Ultra-Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#715c25;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           x="169.15927"
-           y="43.893665"
-           id="text2401-1"><tspan
-             sodipodi:role="line"
-             id="tspan2399-5"
-             x="169.15927"
-             y="43.893665"
-             style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:4.93889px;font-family:Lato;-inkscape-font-specification:'Lato, Ultra-Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#715c25;fill-opacity:1;stroke-width:0.264583">ans</tspan></text>
-      </g>
-      <g
-         id="g2450"
-         transform="matrix(0.50203807,0.15788895,-0.15788895,0.50203807,80.868989,-13.400148)">
-        <circle
-           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-           id="path2393"
-           cx="172.71512"
-           cy="39.226303"
-           r="6.7194095" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2a2c38;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           x="167.70557"
-           y="41.068939"
-           id="text2397"><tspan
-             sodipodi:role="line"
-             id="tspan2395"
-             x="167.70557"
-             y="41.068939"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.46667px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2a2c38;fill-opacity:1;stroke-width:0.264583">10</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Ultra-Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2a2c38;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           x="169.15927"
-           y="43.893665"
-           id="text2401"><tspan
-             sodipodi:role="line"
-             id="tspan2399"
-             x="169.15927"
-             y="43.893665"
-             style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:4.93889px;font-family:Lato;-inkscape-font-specification:'Lato, Ultra-Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2a2c38;fill-opacity:1;stroke-width:0.264583">ans</tspan></text>
-      </g>
+       id="g2324"
+       transform="translate(0.52948157,0.21563087)">
+      <rect
+         style="fill:#febb00;fill-opacity:1;stroke-width:0.398845"
+         id="rect2315"
+         width="17.583048"
+         height="4.4151568"
+         x="164.31952"
+         y="29.049747"
+         ry="0.69427907" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="165.35948"
+         y="32.242477"
+         id="text2319"><tspan
+           sodipodi:role="line"
+           id="tspan2317"
+           x="165.35948"
+           y="32.242477"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">10ans exp.</tspan></text>
     </g>
   </g>
   <g
