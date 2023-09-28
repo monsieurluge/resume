@@ -1,59 +1,63 @@
 # Ingénieur en développement Web
 
-_10 ans d'expérience_
+_senior / +10 ans d'expérience_
 
----------------------------------------------
-
-## M. Laurent Vergé
+# M. Laurent Vergé
 
 - vergelaurent@gmail.com
 - 06.61.49.22.50 (après 18h)
-- 44 bis rue Frédéric Fabrèges, 34000 Montpellier, France
-- 38 ans
+- Rousson, France
 
----
+# Profil
 
-## Profil
+Développeur web depuis plus de 10 ans, j'ai essentiellement travaillé en environnement Javascript (natif, JQuery, Vue, Angular, Nest) et PHP (Symfony et Laravel) sur des projets legacy à maintenir et faire évoluer, mais aussi sur des projets à monter de toutes pièces comportant tantôt une API RESTful, tantôt une stack complète en JS, parfois sous environnement docker. Curieux par nature le changement de contexte de travail est une grande source de motivation.
 
-Développeur web depuis environ 10 ans, j'ai essentiellement travaillé en environnement PHP (Symfony et Laravel) et Javascript (natif, JQuery, Vue, Angular) sur des projets legacy à maintenir / évoluer mais aussi sur des projets à monter de toutes pièces comportant tantôt une API RESTful, tantôt une stack complète en JS, parfois sous environnement docker.
-
-Très friand de collaboration et d'amélioration permanente je me considère comme Agiliste confirmé (expérience de Scrum master, etc) ; par extension je fais mon possible pour coller à l'esprit DevOps quand l'environnement le permet.
+Très friand de collaboration et d'amélioration continue j'encourage le partage de connaissances et d'expériences afin d'améliorer les process de l'équipe. L'agilité étant souvent mal amenée et malmenée, je fais mon possible pour transmettre le fruit de mes recherches et mise en application de ce courant de pensée au sein de l'équipe ; par extension je fais mon possible pour coller à l'esprit DevOps quand l'environnement le permet.
 
 Je porte une attention toute particulière à la qualité du code, que ce soit par l'intermédiaire du TDD, de l'application de pattern reconnus efficaces, des principes SOLID, de l'analyse statique de code et globalement par l'application de bonnes pratiques.
 
 Les approches de développement qui me tiennent à coeur : orienté objet (SOLID, tell don't ask, composition > héritage, pas de getter/setter, etc) et programmation fonctionnelle.
 
----------------------------------------------
+# Domaines de compétences
 
-## Domaines de compétences
+## web
 
-### web
-
- - JavaScript - ViewJS, NodeJS, AngularJS, Angular, JQuery, JQueryUI
- - PHP - Symfony 3 et 4, Laravel 5
+ - JavaScript - NestJS, NxJS, ViewJS, NodeJS, Angular
  - UX design, CSS
 
-### outils
+## outils
 
- - GIT, Jenkins, WebPack, Docker
+ - git, GitLab-CI, Docker, Parcel, WebPack
 
-### gestion de projet
+## gestion de projet
 
  - AGILE, SCRUM
 
-### divers
+## divers
 
  - application de design et conception "orientés objet", programmation fonctionnelle
- - respectueux de la qualité du code (PSR/ESlint, respect des normes d'écriture, tests unitaires & fonctionnels)
- - adepte du TDD (test driven development) et DDD (domain driven development)
+ - respectueux de la qualité du code (ESlint, respect des normes d'écriture, tests unitaires & fonctionnels, Clean Code)
+ - adepte du TDD (test driven development) et du développement en pair
  - recherche et expérimentations en maintenabilité et réduction des coûts liés à la modification du code
- - agiliste confirmé
+ - agiliste enthousiaste (participation à des Meetups, Agile Tour, et formations)
 
----------------------------------------------
+# Expériences
 
-## Expériences
+## Vitrinemedia, Montpellier
 
-### ADEC, Montpellier
+_depuis mai 2020_
+
+Maintenance et évolution de l'application de diffusion de contenu (mandats immobiliers, images, vidéos, plannings d'atelier) à destination des agences immobilières et concessions automobiles.
+
+Développement de l'application venant en remplacement de l'application de diffusion de contenu actuelle, visant à proposer une interface modernisée, une expérience utilisateur simplifiée, de nouveaux contenus dont l'intégration des réseaux sociaux, un calendrier de diffusion pour aider la programmation de campagnes commerciales et l'intégration de VistaCreate pour aider à la personnalisation.
+
+La liberté dont jouit l'équipe a permis de lancer des expérimentations en développement Agile, de participer activement à la constitution de l'équipe de développement, et d'établir des recommandations en terme d'architecture et design applicatif pour faciliter la maintenance et l'évolution des applications.
+
+<u>Contexte technique</u>
+
+**front** : Angular, VueJS, **back** : NestJS, NxJS, Postgresql, **divers** : GIT, GitLab, GitLab-CI, Docker, SCRUM
+
+## ADEC, Montpellier
 
 _janvier 2018, avril 2020_
 
@@ -65,7 +69,7 @@ Création de l'application de gestion de tickets d'incidents qui viendra en remp
 
 **front** : VueJS, VueX, JQuery, **back** : Symfony 4, Laravel 5, MySQL, **divers** : GIT, GitLab, WebPack, Docker, méthode AGILE
 
-### OveaSoft, Montpellier
+## OveaSoft, Montpellier
 
 _septembre 2017, décembre 2017_
 
@@ -77,7 +81,7 @@ Consolidation de la pratique de l'Agilité au sein de l'équipe par la prise en 
 
 **front** : AngularJS, **back** : NodeJS, MongoDB, **divers** : GIT, GitLab, WebPack, Jenkins, méthode AGILE
 
-### Conserto - Wonderful, Montpellier
+## Conserto - Wonderful, Montpellier
 
 _mai 2017 - août 2017_
 
@@ -91,7 +95,7 @@ Apport de bonnes pratiques objet et normes de codage.
 
 **front** : JavaScript, CSS3, **back** : PHP 7, MySQL, **divers** : Wordpress + framework "maison", JQuery, GIT
 
-### Conserto - DSI La Poste Courrier, Montpellier
+## Conserto - DSI La Poste Courrier, Montpellier
 
 _juil. 2016 - avril 2017_
 
@@ -103,7 +107,7 @@ Conception et modélisation technique. Initialisation du projet, configuration d
 
 **front** : AngularJS 1.5, JavaScript, CSS3, **back** : PHP 5.6, webservices RESTful, MariaDB, Oracle, **divers** : Symfony 3.1, Zend 1, GIT, Subversion 1.8, Jenkins, Swagger, méthode SCRUM
 
-### Conserto - DSI La Poste Courrier, Montpellier
+## Conserto - DSI La Poste Courrier, Montpellier
 
 _février 2015 - juin 2016_
 
@@ -119,7 +123,7 @@ SCRUM Master de l'équipe (7 personnes) durant un mois ½.
 
 **front** : JavaScript, JQuery, CSS3, **back** : PHP 5.2, webservices RESTful, MySQL, Oracle, **divers** : ZEND 1, Subversion 1.7, Jenkins, Swagger, méthode AGILE
 
-### CGI - DSI La Poste Courrier, Montpellier
+## CGI - DSI La Poste Courrier, Montpellier
 
 _juin 2014 - janvier 2015_
 
@@ -131,7 +135,7 @@ Développements dédiés au rapprochement des applications Messi Comet et Devis 
 
 **front** : JavaScript, JQuery, **back** : PHP 5.2, MySQL, **divers** : ZEND 1, Subversion 1.7, Jenkins, méthode AGILE
 
-### CGI - Mappy, Montpellier
+## CGI - Mappy, Montpellier
 
 _septembre 2013 - mai 2014_
 
@@ -143,7 +147,7 @@ Refonte des fronts et back office du portail de gestion des commerces. Mise en c
 
 **front** : JavaScript, AngularJS, CSS3, **back** : PHP 5.5, webservices RESTFul, MySQL, Oracle, **divers** : Symfony 2.3, GIT, Jenkins, PhantomJS, méthode AGILE
 
-### CGI - Constellium, Montpellier
+## CGI - Constellium, Montpellier
 
 _janvier 2013 - août 2013_
 
@@ -155,7 +159,7 @@ Refonte visuelle de l’intranet. Ajout de nouvelles pages de produits, contact.
 
 **front** : JavaScript, JQuery, JQuery UI, CSS3, **back** : PHP 5.3, MySQL, **divers** : EzPublish 4, Subversion 1.7, Jenkins, KANBAN
 
-### CGI - SFR, Montpellier
+## CGI - SFR, Montpellier
 
 _novembre 2011 - janvier 2012_
 
@@ -167,11 +171,9 @@ Développement PHP (PHP5.3) et JavaScript (+JQuery et JQueryUI) selon les recomm
 
 **front** : JavaScript, JQuery, JQuery UI, CSS2, **back** : PHP 5.3, MySQL, **divers** : EzPublish 4, Subversion 1.7, Jenkins, Photoshop
 
----------------------------------------------
+# Autres expériences
 
-## Autres expériences
-
-### CGI - DSI La Poste Courrier, Montpellier
+## CGI - DSI La Poste Courrier, Montpellier
 
 _février 2012 - décembre 2012_
 
@@ -183,7 +185,7 @@ Réalisation et animation des travaux d’intégration. Création de services te
 
 Linux, Windows 2008 Server, VMWare VSphere Client, VTOM, Oracle11
 
-### CGI - Groupama, Montpellier
+## CGI - Groupama, Montpellier
 
 _novembre 2009 - octobre 2011_
 
@@ -195,7 +197,7 @@ Paramétrage, installation et qualification de patchs applicatifs, Industrialisa
 
 UNIX (AIX, HP UX, Solaris), Windows 2003 Server, Dollar Universe, Scripting SHELL & batch,
 
-### ESR Télécoms - Orange, Paris
+## ESR Télécoms - Orange, Paris
 
 _octobre 2008 - septembre 2009_
 
@@ -207,7 +209,7 @@ Suivi de projet conjointement avec les MOE et les architectes. Mise en place des
 
 Netbackup 6.0MP4, TINA (ATEMPO Time Navigator), Scripting SHELL
 
-### ESR Télécoms - Orange, Paris
+## ESR Télécoms - Orange, Paris
 
 _mars 2008 - août 2008_
 
@@ -219,7 +221,7 @@ Suivi de projet et conseil aux MOE. Responsable des mises en production et du su
 
 UNIX, Linux, Scripting SHELL, Dollar Universe
 
-### Hélice - PSA, Paris
+## Hélice - PSA, Paris
 
 _septembre 2007 - janvier 2008_
 
@@ -231,7 +233,7 @@ Chargé de la mise en place des dossiers techniques soumis par les groupes d'ét
 
 Z-OS, OPC, CFT, CORTEX, JCL, REXX
 
-### DIA - Natixis Altaïr, Paris
+## DIA - Natixis Altaïr, Paris
 
 _octobre 2006 - août 2007_
 
@@ -243,7 +245,7 @@ Suivi des projets en relation avec les développeurs et les MOE, ainsi que de la
 
 Z-OS, OPC, CFT, CORTEX, JCL, REXX
 
-### DIA - Natixis Altaïr, Paris
+## DIA - Natixis Altaïr, Paris
 
 _octobre 2005 - août 2007_
 
@@ -255,10 +257,9 @@ Responsable de la surveillance et de la maintenance des différentes partitions 
 
 Z-OS, OPC, CFT, CORTEX, JCL, REXX, Scripting SHELL
 
----------------------------------------------
+# Formations
 
-## Formations
-
+ - 2022 : Docker, coaching Agile & SCRUM
  - 2020 : Autoformation Python & Django
  - 2019 : Culture DevOps
  - 2016 : Symfony 3, SCRUM Master
@@ -267,10 +268,7 @@ Z-OS, OPC, CFT, CORTEX, JCL, REXX, Scripting SHELL
  - 2002 : DUT informatique, option génie logiciel
  - 2000 : Baccalauréat STI, option génie électrotechnique
 
----------------------------------------------
+# Informations diverses
 
-## Informations diverses
-
- - Loisirs : Photographie, Jeux de société (animateur, joueur)
- - Twitter : @monsieurluge
+ - Loisirs : photographie, jeux de société (animateur, joueur)
  - GitHub : github.com/monsieurluge
