@@ -6,7 +6,7 @@ _senior / +10 ans d'expérience_
 
 - vergelaurent@gmail.com
 - 06.61.49.22.50 (après 18h)
-- Rousson, France
+- Rousson (Gard), full remote
 
 # Profil
 
@@ -20,18 +20,33 @@ Les approches de développement qui me tiennent à coeur : orienté objet (SOLID
 
 # Domaines de compétences
 
-## web
+## front
 
- - JavaScript - NestJS, NxJS, ViewJS, NodeJS, Angular
- - UX design, CSS
+ - Vue3
+ - Angular
+ - UX design (forte appétence)
+
+## back
+
+ - NestJS
+ - NxJS
+ - NodeJS
+
+## conception
+
+ - architecture hexagonale
+ - clean architecture
+ - TDD
 
 ## outils
 
- - git, GitLab-CI, Docker, Parcel, WebPack
+ - git / GitLab-CI
+ - Docker
 
 ## gestion de projet
 
- - AGILE, SCRUM
+ - Agile
+ - SCRUM
 
 ## divers
 
@@ -45,7 +60,7 @@ Les approches de développement qui me tiennent à coeur : orienté objet (SOLID
 
 ## Vitrinemedia, Montpellier
 
-_depuis mai 2020_
+_depuis avril 2021_
 
 Maintenance et évolution de l'application de diffusion de contenu (mandats immobiliers, images, vidéos, plannings d'atelier) à destination des agences immobilières et concessions automobiles.
 
@@ -56,6 +71,16 @@ La liberté dont jouit l'équipe a permis de lancer des expérimentations en dé
 <u>Contexte technique</u>
 
 **front** : Angular, VueJS, **back** : NestJS, NxJS, Postgresql, **divers** : GIT, GitLab, GitLab-CI, Docker, SCRUM
+
+## DigitRE, Montpellier
+
+_janvier 2021, avril 2021_
+
+TODO
+
+<u>Contexte technique</u>
+
+**front** : VueJS, **back** : Symfony 3, MySQL, **divers** : GIT, GitLab
 
 ## ADEC, Montpellier
 
@@ -260,7 +285,6 @@ Z-OS, OPC, CFT, CORTEX, JCL, REXX, Scripting SHELL
 # Formations
 
  - 2022 : Docker, coaching Agile & SCRUM
- - 2020 : Autoformation Python & Django
  - 2019 : Culture DevOps
  - 2016 : Symfony 3, SCRUM Master
  - 2008 : Administration Symantec Netbackup 6.5, Maîtriser Unix, Découverte d'Oracle 10G et SQL+
