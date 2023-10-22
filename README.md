@@ -76,7 +76,7 @@ La liberté dont jouit l'équipe a permis de lancer des expérimentations en dé
 
 _janvier 2021, avril 2021_
 
-TODO
+Développement de la solution d'aide aux particuliers à l'évaluation d'un bien immobilier en vue de sa vente. Cette solution propose via les API partenaires une fourchette de prix selon un ensemble de critères simples mais ciblés et invite ensuite le particulier à se rapprocher d'un agent immobilier pour l'accompagner dans la suite des démarches. Le but étant de favoriser le déclenchement d'un lead. La qualité de l'interface et les intéractions (UI/UX) étaient des critères importants.
 
 <u>Contexte technique</u>
 
