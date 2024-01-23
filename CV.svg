@@ -5,7 +5,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
    sodipodi:docname="CV.svg"
    xml:space="preserve"
    inkscape:export-filename="CV.pdf"
@@ -81,11 +81,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="170.2107"
-     inkscape:cy="554.06867"
+     inkscape:zoom="2.8"
+     inkscape:cx="426.07143"
+     inkscape:cy="515.89286"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="g265"
      inkscape:document-rotation="0"
      showgrid="false"
      showguides="false"
@@ -94,7 +94,7 @@
      inkscape:window-width="2512"
      inkscape:window-height="1362"
      inkscape:window-x="25"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
@@ -247,13 +247,16 @@
          inkscape:label="description contact"><tspan
            x="12"
            y="67.833611"
-           id="tspan3">vergelaurent@gmail.com&#10;</tspan><tspan
+           id="tspan3">vergelaurent@gmail.com
+</tspan><tspan
            x="12"
            y="73.054719"
-           id="tspan4">06 61 49 22 50&#10;</tspan><tspan
+           id="tspan4">06 61 49 22 50
+</tspan><tspan
            x="12"
            y="78.275827"
-           id="tspan5">Rousson (Gard) full remote&#10;</tspan><tspan
+           id="tspan5">Rousson (Gard) full remote
+</tspan><tspan
            x="12"
            y="83.496934"
            id="tspan6">github.com/monsieurluge</tspan></text><path
@@ -285,17 +288,20 @@
            y="67.833611"
            id="tspan8"><tspan
    style="fill:#febb00"
-   id="tspan7">2022</tspan>  Docker, coaching Agile&#10;</tspan><tspan
+   id="tspan7">2022</tspan>  Docker, coaching Agile
+</tspan><tspan
            x="12"
            y="73.054719"
            id="tspan10"><tspan
    style="fill:#febb00"
-   id="tspan9">2019</tspan>  Culture DevOps&#10;</tspan><tspan
+   id="tspan9">2019</tspan>  Culture DevOps
+</tspan><tspan
            x="12"
            y="78.275827"
            id="tspan12"><tspan
    style="fill:#febb00"
-   id="tspan11">2016</tspan>  Symfony 3, SCRUM Master&#10;</tspan><tspan
+   id="tspan11">2016</tspan>  Symfony 3, SCRUM Master
+</tspan><tspan
            x="12"
            y="83.496934"
            id="tspan14"><tspan
@@ -323,7 +329,8 @@
          inkscape:label="description loisirs"><tspan
            x="12"
            y="67.833611"
-           id="tspan15">photographie&#10;</tspan><tspan
+           id="tspan15">photographie
+</tspan><tspan
            x="12"
            y="73.054719"
            id="tspan17">jeux de société <tspan
@@ -361,25 +368,30 @@
            y="67.833611"
            id="tspan19"><tspan
    style="fill:#febb00"
-   id="tspan18">front</tspan>  Vue3, Angular, UX design&#10;</tspan><tspan
+   id="tspan18">front</tspan>  Vue3, Angular, UX design
+</tspan><tspan
            x="12"
            y="73.054719"
            id="tspan21"><tspan
    style="fill:#febb00"
-   id="tspan20">back</tspan>  Nest, Nx, Node&#10;</tspan><tspan
+   id="tspan20">back</tspan>  Nest, Nx, Node
+</tspan><tspan
            x="12"
            y="78.275827"
            id="tspan23"><tspan
    style="fill:#febb00"
-   id="tspan22">conception</tspan>  Architecture Hexagonale,&#10;</tspan><tspan
+   id="tspan22">conception</tspan>  Architecture Hexagonale,
+</tspan><tspan
            x="12"
            y="83.496934"
-           id="tspan24">    Clean Architecture, TDD&#10;</tspan><tspan
+           id="tspan24">    Clean Architecture, TDD
+</tspan><tspan
            x="12"
            y="88.718042"
            id="tspan26"><tspan
    style="fill:#febb00"
-   id="tspan25">outils</tspan>  git, GitLab + CI, Docker&#10;</tspan><tspan
+   id="tspan25">outils</tspan>  git, GitLab + CI, Docker
+</tspan><tspan
            x="12"
            y="93.939149"
            id="tspan28"><tspan
@@ -458,10 +470,12 @@
            id="tspan34">sécurisation des composants, réécriture des échanges front-office &lt;-&gt; back-office dans le </tspan><tspan
            x="12"
            y="78.416946"
-           id="tspan35">but de migrer vers une API REST.&#10;</tspan><tspan
+           id="tspan35">but de migrer vers une API REST.
+</tspan><tspan
            x="12"
            y="81.944725"
-           id="tspan36">&#10;</tspan><tspan
+           id="tspan36">
+</tspan><tspan
            x="12"
            y="85.472503"
            id="tspan37">Création de la future application de gestion de tickets d'incidents. Objectifs : renforcer la </tspan><tspan
@@ -506,10 +520,12 @@
            id="tspan41">dette technique et en préparant la migration vers Angular. Ajout de nouvelles </tspan><tspan
            x="12"
            y="74.889167"
-           id="tspan42">fonctionnalités à l'intranet groupe.&#10;</tspan><tspan
+           id="tspan42">fonctionnalités à l'intranet groupe.
+</tspan><tspan
            x="12"
            y="78.416946"
-           id="tspan43">&#10;</tspan><tspan
+           id="tspan43">
+</tspan><tspan
            x="12"
            y="81.944725"
            id="tspan44">Consolidation de la pratique de l'Agilité au sein de l'équipe via : prise en charge de </tspan><tspan
@@ -585,10 +601,12 @@
            id="tspan51">environnement docker. Curieux par nature le changement de contexte de travail est une </tspan><tspan
            x="312.64258"
            y="295.81661"
-           id="tspan52">grande source de motivation.&#10;</tspan><tspan
+           id="tspan52">grande source de motivation.
+</tspan><tspan
            x="312.64258"
            y="309.14998"
-           id="tspan53">&#10;</tspan><tspan
+           id="tspan53">
+</tspan><tspan
            x="312.64258"
            y="322.48336"
            id="tspan54">Très friand de collaboration et d'amélioration continue j'encourage le partage de </tspan><tspan
@@ -603,10 +621,12 @@
            id="tspan57">recherches et mise en application de ce courant de pensée au sein de l'équipe ; par extension </tspan><tspan
            x="312.64258"
            y="375.81685"
-           id="tspan58">je fais mon possible pour coller à l'esprit DevOps quand l'environnement le permet.&#10;</tspan><tspan
+           id="tspan58">je fais mon possible pour coller à l'esprit DevOps quand l'environnement le permet.
+</tspan><tspan
            x="312.64258"
            y="389.15023"
-           id="tspan59">&#10;</tspan><tspan
+           id="tspan59">
+</tspan><tspan
            x="312.64258"
            y="402.4836"
            id="tspan60">Je porte une attention toute particulière à la qualité du code, que ce soit par l'intermédiaire </tspan><tspan
@@ -615,10 +635,12 @@
            id="tspan61">du TDD, de l'application de pattern reconnus efficaces, des principes SOLID, de l'analyse </tspan><tspan
            x="312.64258"
            y="429.15035"
-           id="tspan62">statique de code et globalement par l'application de bonnes pratiques.&#10;</tspan><tspan
+           id="tspan62">statique de code et globalement par l'application de bonnes pratiques.
+</tspan><tspan
            x="312.64258"
            y="442.48372"
-           id="tspan63">&#10;</tspan><tspan
+           id="tspan63">
+</tspan><tspan
            x="312.64258"
            y="455.8171"
            id="tspan64">Les approches de développement qui me tiennent à coeur : orienté objet (SOLID, tell don't </tspan><tspan
@@ -703,10 +725,12 @@
            id="tspan67">images, vidéos, plannings d'atelier) à destination des agences immobilières et concessions </tspan><tspan
            x="12"
            y="74.889167"
-           id="tspan68">automobiles.&#10;</tspan><tspan
+           id="tspan68">automobiles.
+</tspan><tspan
            x="12"
            y="78.416946"
-           id="tspan69">&#10;</tspan><tspan
+           id="tspan69">
+</tspan><tspan
            x="12"
            y="81.944725"
            id="tspan70">Développement de l'application venant en remplacement de l'application de diffusion de </tspan><tspan
@@ -721,10 +745,12 @@
            id="tspan73">diffusion pour aider la programmation de campagnes commerciales et l'intégration de </tspan><tspan
            x="12"
            y="96.055839"
-           id="tspan74">VistaCreate pour aider à la personnalisation.&#10;</tspan><tspan
+           id="tspan74">VistaCreate pour aider à la personnalisation.
+</tspan><tspan
            x="12"
            y="99.583618"
-           id="tspan75">&#10;</tspan><tspan
+           id="tspan75">
+</tspan><tspan
            x="12"
            y="103.1114"
            id="tspan76">La liberté dont jouit l'équipe m'a permis de lancer des expérimentations en développement </tspan><tspan
@@ -746,7 +772,7 @@
            id="tspan259"
            x="84.634331"
            y="133.55562"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52778px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583">vitrinemedia /// depuis avril 2021</tspan></text><text
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52778px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583">vitrinemedia /// avril 2021 - décembre 2023</tspan></text><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="84.517204"

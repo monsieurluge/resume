@@ -60,7 +60,7 @@ Les approches de développement qui me tiennent à coeur : orienté objet (SOLID
 
 ## Vitrinemedia, Montpellier
 
-_depuis avril 2021_
+_avril 2021, décembre 2023_
 
 Maintenance et évolution de l'application de diffusion de contenu (mandats immobiliers, images, vidéos, plannings d'atelier) à destination des agences immobilières et concessions automobiles.
 
