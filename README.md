@@ -7,6 +7,7 @@ _senior / +10 ans d'expérience_
 - vergelaurent@gmail.com
 - 06.61.49.22.50 (après 18h)
 - Rousson (Gard), full remote
+- https://monsieurluge.dev
 
 # Profil
 
