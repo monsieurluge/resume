@@ -285,9 +285,10 @@ Z-OS, OPC, CFT, CORTEX, JCL, REXX, Scripting SHELL
 
 # Formations
 
- - 2022 : Docker, coaching Agile & SCRUM
+ - 2024 : VueJS via [DevTheory](https://devtheory.schoolmaker.co)
+ - 2022 : Docker, coaching Agile & SCRUM par [SmartView](https://www.smartview.fr)
  - 2019 : Culture DevOps
- - 2016 : Symfony 3, SCRUM Master
+ - 2016 : Symfony 3 par [SensioLabs](https://training.sensiolabs.com/fr), SCRUM Master
  - 2008 : Administration Symantec Netbackup 6.5, Maîtriser Unix, Découverte d'Oracle 10G et SQL+
  - 2006 : École de pilotage MVS, JCL et utilitaires, OPC
  - 2002 : DUT informatique, option génie logiciel
