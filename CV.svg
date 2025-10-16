@@ -6,12 +6,38 @@
    version="1.1"
    id="svg8"
    xml:space="preserve"
+   sodipodi:docname="CV.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   inkscape:export-filename="CV.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"><defs
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.1492003"
+     inkscape:cx="536.89507"
+     inkscape:cy="623.04193"
+     inkscape:window-width="2304"
+     inkscape:window-height="1268"
+     inkscape:window-x="128"
+     inkscape:window-y="72"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer5" /><defs
      id="defs2"><rect
        x="312.64221"
        y="219.20309"
@@ -29,7 +55,9 @@
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><g
      id="layer1"
-     style="display:inline"><rect
+     style="display:inline"
+     sodipodi:insensitive="true"
+     inkscape:label="background"><rect
        style="opacity:1;fill:#2a2c38;fill-opacity:1;stroke-width:0.250269"
        id="rect1125"
        width="135.99998"
@@ -43,21 +71,24 @@
        x="0"
        y="7.792882e-07" /></g><g
      id="layer8"
-     style="display:inline"><text
+     style="display:inline"
+     inkscape:label="footer"
+     sodipodi:insensitive="true"><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#8b90a8;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="134.05809"
        y="293.77802"
        id="text2797"><tspan
          id="tspan2795"
          x="134.05809"
          y="293.77802"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#8b90a8;fill-opacity:1;stroke-width:0.264583">CV détaillé : github.com/monsieurluge/resume</tspan></text><path
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#febb00;fill-opacity:1;stroke-width:0.264583">CV détaillé : github.com/monsieurluge/resume</tspan></text><path
        d="m 70.810863,294.6468 a 1.70839,1.70839 0 1 0 0,-3.41678 1.70839,1.70839 0 1 0 0,3.41678 z m -0.26693,-1.17452 h 0.16016 v -0.4271 h -0.16016 c -0.0888,0 -0.16016,-0.0714 -0.16016,-0.16016 0,-0.0888 0.0714,-0.16016 0.16016,-0.16016 h 0.32032 c 0.0888,0 0.16016,0.0714 0.16016,0.16016 v 0.58726 h 0.0534 c 0.0888,0 0.16016,0.0714 0.16016,0.16016 0,0.0888 -0.0714,0.16016 -0.16016,0.16016 h -0.53387 c -0.0888,0 -0.16016,-0.0714 -0.16016,-0.16016 0,-0.0888 0.0714,-0.16016 0.16016,-0.16016 z m 0.26693,-1.38807 a 0.21355,0.21355 0 1 1 0,0.4271 0.21355,0.21355 0 1 1 0,-0.4271 z"
        id="path1-2"
        style="display:inline;fill:#febb00;fill-opacity:1;stroke-width:0.00667339" /></g><g
      id="layer3"
-     style="display:inline"><g
+     style="display:inline"
+     inkscape:label="left"><g
        id="g242"
        transform="translate(0,-6.0476191)"><text
          xml:space="preserve"
@@ -91,23 +122,23 @@
          transform="translate(5.6443764,74.191137)"><tspan
            x="12"
            y="67.833611"
-           id="tspan1">vergelaurent@gmail.com
+           id="tspan3">vergelaurent@gmail.com
 </tspan><tspan
            x="12"
            y="73.054719"
-           id="tspan2">06 61 49 22 50
+           id="tspan4">06 61 49 22 50
 </tspan><tspan
            x="12"
            y="78.275827"
-           id="tspan80">Rousson (Gard) full remote
+           id="tspan5">Rousson (Gard) full remote
 </tspan><tspan
            x="12"
            y="83.496934"
-           id="tspan81">github.com/monsieurluge
+           id="tspan6">github.com/monsieurluge
 </tspan><tspan
            x="12"
            y="88.718042"
-           id="tspan82">https://monsieurluge.dev</tspan></text><path
+           id="tspan7">https://monsieurluge.dev</tspan></text><path
          d="m 13.434767,144.72417 c -0.0514,-0.12412 -0.18686,-0.19019 -0.31632,-0.15482 l -0.58726,0.16016 c -0.11612,0.032 -0.19687,0.13747 -0.19687,0.2576 0,1.651 1.33869,2.98968 2.98968,2.98968 0.12013,0 0.22556,-0.0807 0.2576,-0.19687 l 0.16016,-0.58725 c 0.0354,-0.12947 -0.0307,-0.26494 -0.15482,-0.31632 l -0.64065,-0.26694 c -0.10878,-0.0454 -0.2349,-0.014 -0.30898,0.0774 l -0.2696,0.329 c -0.46981,-0.22222 -0.85019,-0.60261 -1.07242,-1.07242 l 0.329,-0.26894 c 0.0914,-0.0747 0.12279,-0.2002 0.0774,-0.30897 l -0.26693,-0.64065 z"
          id="path1-38"
          style="display:inline;fill:#febb00;fill-opacity:1;stroke-width:0.00667339" /></g><g
@@ -130,27 +161,27 @@
          transform="translate(2.805239,112.07818)"><tspan
            x="12"
            y="67.833611"
-           id="tspan84"><tspan
+           id="tspan9"><tspan
    style="fill:#febb00"
-   id="tspan83">2022</tspan>  Docker, coaching Agile
+   id="tspan8">2022</tspan>  Docker, coaching Agile
 </tspan><tspan
            x="12"
            y="73.054719"
-           id="tspan86"><tspan
+           id="tspan11"><tspan
    style="fill:#febb00"
-   id="tspan85">2019</tspan>  Culture DevOps
+   id="tspan10">2019</tspan>  Culture DevOps
 </tspan><tspan
            x="12"
            y="78.275827"
-           id="tspan88"><tspan
+           id="tspan13"><tspan
    style="fill:#febb00"
-   id="tspan87">2016</tspan>  Symfony 3, SCRUM Master
+   id="tspan12">2016</tspan>  Symfony 3, SCRUM Master
 </tspan><tspan
            x="12"
            y="83.496934"
-           id="tspan90"><tspan
+           id="tspan15"><tspan
    style="fill:#febb00"
-   id="tspan89">2002</tspan>  DUT informatique</tspan></text></g><g
+   id="tspan14">2002</tspan>  DUT informatique</tspan></text></g><g
        id="g227"
        transform="translate(-3.1750001,58.364337)"><text
          xml:space="preserve"
@@ -170,13 +201,13 @@
          transform="translate(9.140914,148.62093)"><tspan
            x="12"
            y="67.833611"
-           id="tspan91">photographie
+           id="tspan16">photographie
 </tspan><tspan
            x="12"
            y="73.054719"
-           id="tspan93">jeux de société <tspan
+           id="tspan18">jeux de société <tspan
    style="font-size:2.11667px;fill:#999999"
-   id="tspan92">animateur &amp; joueur</tspan></tspan></text><path
+   id="tspan17">animateur &amp; joueur</tspan></tspan></text><path
          d="m 17.258052,214.64081 0.337,-0.16817 h 1.180529 v 0.64065 h -0.766109 c -0.14615,-0.10077 -0.32366,-0.16016 -0.51518,-0.16016 -0.19153,0 -0.36838,0.0594 -0.51519,0.16016 h -0.76611 v -0.4271 h 0.8542 c 0.0661,0 0.13146,-0.0154 0.19086,-0.0454 z m -1.47215,0.0454 v 1.92194 c 0,0.23557 0.19152,0.4271 0.42709,0.4271 h 2.562589 c 0.23557,0 0.42709,-0.19153 0.42709,-0.4271 v -2.13549 c 0,-0.23557 -0.19152,-0.42709 -0.42709,-0.42709 h -1.180529 c -0.0661,0 -0.13146,0.0154 -0.19086,0.0454 l -0.337,0.16817 h -0.21355 v -0.10678 c 0,-0.0587 -0.0481,-0.10677 -0.10677,-0.10677 h -0.4271 c -0.0587,0 -0.10678,0.0481 -0.10678,0.10677 v 0.10678 c -0.23557,0 -0.42709,0.19152 -0.42709,0.42709 z m 1.12113,1.17452 a 0.58725881,0.58725881 0 1 1 1.174509,0 0.58725881,0.58725881 0 1 1 -1.174509,0 z"
          id="path1-7"
          style="display:inline;fill:#febb00;fill-opacity:1;stroke-width:0.00667339" /><path
@@ -202,37 +233,37 @@
          transform="translate(2.8150545,58.156882)"><tspan
            x="12"
            y="67.833611"
-           id="tspan95"><tspan
+           id="tspan20"><tspan
    style="fill:#febb00"
-   id="tspan94">front</tspan>  Vue3, Angular, UX design
+   id="tspan19">front</tspan>  VueJS, TypeScript, UX design
 </tspan><tspan
            x="12"
            y="73.054719"
-           id="tspan97"><tspan
+           id="tspan22"><tspan
    style="fill:#febb00"
-   id="tspan96">back</tspan>  Nest, Nx, Node
+   id="tspan21">back</tspan>  NestJS, Nx, Node
 </tspan><tspan
            x="12"
            y="78.275827"
-           id="tspan99"><tspan
+           id="tspan24"><tspan
    style="fill:#febb00"
-   id="tspan98">conception</tspan>  Architecture Hexagonale,
+   id="tspan23">conception</tspan>  Architecture Hexagonale,
 </tspan><tspan
            x="12"
            y="83.496934"
-           id="tspan100">    Clean Architecture, TDD
+           id="tspan25">    Clean Architecture, TDD
 </tspan><tspan
            x="12"
            y="88.718042"
-           id="tspan102"><tspan
+           id="tspan27"><tspan
    style="fill:#febb00"
-   id="tspan101">outils</tspan>  git, GitLab + CI, Docker
+   id="tspan26">outils</tspan>  git, GitLab + CI, Docker
 </tspan><tspan
            x="12"
            y="93.939149"
-           id="tspan104"><tspan
+           id="tspan29"><tspan
    style="fill:#febb00"
-   id="tspan103">gestion de projet</tspan>  Agile, SCRUM</tspan></text></g><g
+   id="tspan28">gestion de projet</tspan>  Agile, SCRUM</tspan></text></g><g
        id="g243"><rect
          style="display:inline;fill:#cccccc;fill-opacity:1;stroke:#febb00;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect242"
@@ -250,20 +281,21 @@
          transform="rotate(-3.500752,468.26025,189.97698)"><tspan
            x="12"
            y="67.833611"
-           id="tspan105">Échangeons, discutons, ça ne coûte rien </tspan><tspan
+           id="tspan30">Échangeons, discutons, ça ne coûte rien </tspan><tspan
            x="12"
            y="71.643605"
-           id="tspan106">et c'est le meilleur moyen d'apprendre à </tspan><tspan
+           id="tspan31">et c'est le meilleur moyen d'apprendre à </tspan><tspan
            x="12"
            y="75.453603"
-           id="tspan107">se connaître =)</tspan></text><path
+           id="tspan32">se connaître =)</tspan></text><path
          d="m 48.762264,82.241875 c 0.191949,-1.845423 1.842131,-3.184666 3.687556,-2.992715 l 0.222678,0.02316 c 0.492671,0.05124 0.849302,0.490678 0.798057,0.98335 -0.05124,0.492667 -0.490679,0.849299 -0.983348,0.798054 l -0.222678,-0.02316 c -0.860085,-0.08947 -1.631399,0.536517 -1.720859,1.396602 l -0.02316,0.222681 1.781406,0.185291 c 0.982556,0.102195 1.698315,0.984138 1.596116,1.966695 l -0.18529,1.781404 c -0.102195,0.982557 -0.984141,1.698313 -1.966698,1.596114 L 49.96464,87.994062 c -0.98256,-0.102195 -1.69832,-0.98414 -1.596121,-1.966696 l 0.09265,-0.890706 0.09265,-0.890699 z m 7.125623,0.741163 c 0.19195,-1.845425 1.842133,-3.184667 3.687559,-2.992717 l 0.222677,0.02316 c 0.492671,0.05125 0.849302,0.49068 0.798058,0.983353 -0.05123,0.492668 -0.490679,0.849297 -0.983349,0.798052 l -0.222677,-0.02316 c -0.860088,-0.08946 -1.631399,0.536516 -1.720861,1.396602 l -0.02316,0.222681 1.781405,0.18529 c 0.982556,0.102195 1.698316,0.984139 1.596115,1.966697 l -0.185289,1.781403 c -0.102195,0.982559 -0.984139,1.698315 -1.966697,1.596116 l -1.781409,-0.18529 C 56.107702,88.63303 55.391943,87.751086 55.494142,86.768528 l 0.09265,-0.890706 0.09265,-0.890697 z"
          id="path1-6"
          style="fill:#edeef1;fill-opacity:1;stroke-width:0.0279846" /></g></g><g
      id="layer5"
-     style="display:inline"><g
+     style="display:inline"
+     inkscape:label="right"><g
        id="g239"
-       transform="translate(0,-5.4806548)"><rect
+       transform="translate(0,-11.830656)"><rect
          style="display:inline;fill:#febb00;fill-opacity:1;stroke-width:0.318195;stop-color:#000000"
          id="rect1238"
          width="6"
@@ -282,7 +314,7 @@
            y="75.308922"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88056px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2a2c38;fill-opacity:1;stroke-width:0.264583">DERNIÈRES EXPÉRIENCES</tspan></text></g><g
        id="g263"
-       transform="translate(0,-0.4544965)"><text
+       transform="translate(0.01408292,43.059457)"><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:117.769;display:inline;fill:#edeef1;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="12"
@@ -291,30 +323,30 @@
          transform="translate(71.561312,143.12044)"><tspan
            x="12"
            y="67.833611"
-           id="tspan108">Reprise des évolutions de l'application de gestion de tickets d'incidents. Chantier de </tspan><tspan
+           id="tspan33">Reprise des évolutions de l'application de gestion de tickets d'incidents. Chantier de </tspan><tspan
            x="12"
            y="71.361389"
-           id="tspan109">refactorisation afin de faciliter les futures évolutions (application de design-patterns), </tspan><tspan
+           id="tspan34">refactorisation afin de faciliter les futures évolutions (application de design-patterns), </tspan><tspan
            x="12"
            y="74.889167"
-           id="tspan110">sécurisation des composants, réécriture des échanges front-office &lt;-&gt; back-office dans le </tspan><tspan
+           id="tspan35">sécurisation des composants, réécriture des échanges front-office &lt;-&gt; back-office dans le </tspan><tspan
            x="12"
            y="78.416946"
-           id="tspan111">but de migrer vers une API REST.
+           id="tspan36">but de migrer vers une API REST.
 </tspan><tspan
            x="12"
            y="81.944725"
-           id="tspan112">
+           id="tspan37">
 </tspan><tspan
            x="12"
            y="85.472503"
-           id="tspan113">Création de la future application de gestion de tickets d'incidents. Objectifs : renforcer la </tspan><tspan
+           id="tspan38">Création de la future application de gestion de tickets d'incidents. Objectifs : renforcer la </tspan><tspan
            x="12"
            y="89.000282"
-           id="tspan114">sécurité des échanges, stucturer et documenter les données enregistrées (RGPD), proposer </tspan><tspan
+           id="tspan39">sécurité des échanges, stucturer et documenter les données enregistrées (RGPD), proposer </tspan><tspan
            x="12"
            y="92.528061"
-           id="tspan115">une interface moderne, proposer une API RESTful, déploiement continu.</tspan></text><text
+           id="tspan40">une interface moderne, proposer une API RESTful, déploiement continu.</tspan></text><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="83.802841"
@@ -333,7 +365,8 @@
            x="83.685722"
            y="200.34398"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">CHEF DE PROJET</tspan></text></g><g
-       id="g264"><text
+       id="g264"
+       transform="translate(0,-126.16745)"><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:117.369;display:inline;fill:#edeef1;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="12"
@@ -342,27 +375,46 @@
          transform="translate(71.614906,192.62642)"><tspan
            x="12"
            y="67.833611"
-           id="tspan116">Modernisation de l'API ainsi que la partie Web de l'intranet du groupe Oxylio en réduisant la </tspan><tspan
+           id="tspan41">Maintenance évolutive de la solution Workplace (gestion des espaces de travail, visiteurs, </tspan><tspan
            x="12"
            y="71.361389"
-           id="tspan117">dette technique et en préparant la migration vers Angular. Ajout de nouvelles </tspan><tspan
+           id="tspan42">ressources), et de l'intégration avec des solutions tierces comme Microsoft Teams, Google </tspan><tspan
            x="12"
            y="74.889167"
-           id="tspan118">fonctionnalités à l'intranet groupe.
+           id="tspan43">Workspace, Outlook, Slack.
 </tspan><tspan
            x="12"
            y="78.416946"
-           id="tspan119">
+           id="tspan44">
 </tspan><tspan
            x="12"
            y="81.944725"
-           id="tspan120">Consolidation de la pratique de l'Agilité au sein de l'équipe via : prise en charge de </tspan><tspan
+           id="tspan45">- refonte de la gestion des tableaux de bord des salles de réunion
+</tspan><tspan
            x="12"
            y="85.472503"
-           id="tspan121">l'organisation du sprint planning, aide à la rédaction des &quot;user stories&quot;, organisation des </tspan><tspan
+           id="tspan46">- refonte progressive des composants legacy de l'ensemble de l'application
+</tspan><tspan
            x="12"
            y="89.000282"
-           id="tspan122">rétrospectives.</tspan></text><text
+           id="tspan47">- amélioration de la doc technique via la création d'ADRs (Architecture Decision Records)
+</tspan><tspan
+           x="12"
+           y="92.528061"
+           id="tspan48">- amélioration des pratiques de développement de l'équipe (Agilité, git flow)
+</tspan><tspan
+           x="12"
+           y="96.055839"
+           id="tspan49">
+</tspan><tspan
+           x="12"
+           y="99.583618"
+           id="tspan50">
+</tspan><tspan
+           x="12"
+           y="103.1114"
+           id="tspan51">
+</tspan></text><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="83.793518"
@@ -372,8 +424,8 @@
            x="83.793518"
            y="253.41048"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52777px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke-width:0.264583"
-           dx="0 0 0 0 0 0 0 0 0"
-           rotate="0 0 0 0 0 0 0 0 0 0">OVEASOFT /// septembre 2017 - décembre 2017</tspan></text><text
+           dx="0 0 0 0 0 0 0"
+           rotate="0 0 0 0 0 0 0 0">COMEEN /// depuis janvier 2025</tspan></text><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="83.659111"
@@ -382,7 +434,7 @@
            id="tspan1217-8-0"
            x="83.659111"
            y="249.7587"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">DÉVELOPPEUR WEB</tspan></text></g><g
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">DÉVELOPPEUR WEB FULLSTACK</tspan></text></g><g
        id="g240"><g
          id="g238"><rect
            style="fill:#febb00;fill-opacity:1;stroke-width:0.230217;stop-color:#000000"
@@ -408,67 +460,58 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;white-space:pre;shape-inside:url(#rect188);display:inline;fill:#ffffff;fill-opacity:1"><tspan
            x="312.64258"
            y="229.14974"
-           id="tspan123">Développeur web depuis plus de 10 ans, j'ai essentiellement travaillé en environnement </tspan><tspan
+           id="tspan52">Développeur web depuis plus de 10 ans j'ai essentiellement travaillé sur des projets &quot;legacy&quot; </tspan><tspan
            x="312.64258"
            y="242.48311"
-           id="tspan124">Javascript (Nest, Node, Vue, Angular, JQuery, natif) et PHP (Symfony et Laravel) sur des </tspan><tspan
+           id="tspan53">à maintenir et faire évoluer. J'ai ainsi acquis une solide expérience en design de code, </tspan><tspan
            x="312.64258"
            y="255.81649"
-           id="tspan125">projets legacy à maintenir et faire évoluer, mais aussi sur des projets à monter de toutes </tspan><tspan
+           id="tspan54">techniques de refactoring, tests et monitoring, et encadre toute équipe pour la </tspan><tspan
            x="312.64258"
            y="269.14986"
-           id="tspan126">pièces comportant tantôt une API RESTful, tantôt une stack complète en JS, parfois sous </tspan><tspan
+           id="tspan55">transformation de l'architecture du code et des pratiques.
+</tspan><tspan
            x="312.64258"
            y="282.48324"
-           id="tspan127">environnement docker. Curieux par nature le changement de contexte de travail est une </tspan><tspan
+           id="tspan56">
+</tspan><tspan
            x="312.64258"
            y="295.81661"
-           id="tspan128">grande source de motivation.
-</tspan><tspan
+           id="tspan57">Très friand d'Agilité j'aide les équipes à améliorer leur process et se concentrer sur ce qui est </tspan><tspan
            x="312.64258"
            y="309.14998"
-           id="tspan129">
-</tspan><tspan
+           id="tspan58">réellement essentiel pour le client en éliminant le superflu. J'encourage le partage de </tspan><tspan
            x="312.64258"
            y="322.48336"
-           id="tspan130">Très friand de collaboration et d'amélioration continue j'encourage le partage de </tspan><tspan
+           id="tspan59">connaissances et d'expériences via des pratiques renforçant le travail en équipe comme le </tspan><tspan
            x="312.64258"
            y="335.81673"
-           id="tspan131">connaissances et d'expériences afin d'améliorer les process de l'équipe. L'Agilité étant </tspan><tspan
-           x="312.64258"
-           y="349.15011"
-           id="tspan132">souvent mal amenée et malmenée, je fais mon possible pour transmettre le fruit de mes </tspan><tspan
-           x="312.64258"
-           y="362.48348"
-           id="tspan133">recherches et mise en application de ce courant de pensée au sein de l'équipe ; par extension </tspan><tspan
-           x="312.64258"
-           y="375.81685"
-           id="tspan134">je fais mon possible pour coller à l'esprit DevOps quand l'environnement le permet.
+           id="tspan60">pair programming ou la revue de code.
 </tspan><tspan
            x="312.64258"
+           y="349.15011"
+           id="tspan61">
+</tspan><tspan
+           x="312.64258"
+           y="362.48348"
+           id="tspan62">Étant plus attaché aux pratiques de développement qu'aux langages et frameworks je suis </tspan><tspan
+           x="312.64258"
+           y="375.81685"
+           id="tspan63">disposé à intervenir dans tout contexte moyennant un temps de montée en compétences </tspan><tspan
+           x="312.64258"
            y="389.15023"
-           id="tspan135">
+           id="tspan64">sur la stack technique.
 </tspan><tspan
            x="312.64258"
            y="402.4836"
-           id="tspan136">Je porte une attention toute particulière à la qualité du code, que ce soit par l'intermédiaire </tspan><tspan
+           id="tspan65">
+</tspan><tspan
            x="312.64258"
            y="415.81698"
-           id="tspan137">du TDD, de l'application de pattern reconnus efficaces, des principes SOLID, de l'analyse </tspan><tspan
+           id="tspan66">J'adhère tant que possible au manifeste du web durable (https://</tspan><tspan
            x="312.64258"
            y="429.15035"
-           id="tspan138">statique de code et globalement par l'application de bonnes pratiques.
-</tspan><tspan
-           x="312.64258"
-           y="442.48372"
-           id="tspan139">
-</tspan><tspan
-           x="312.64258"
-           y="455.8171"
-           id="tspan140">Les approches de développement qui me tiennent à coeur : orienté objet (SOLID, tell don't </tspan><tspan
-           x="312.64258"
-           y="469.15047"
-           id="tspan141">ask, composition &gt; héritage, pas de getter/setter, etc) et programmation fonctionnelle.</tspan></text></g><g
+           id="tspan67">www.sustainablewebmanifesto.com) pour un avenir responsable.</tspan></text></g><g
        id="g241"><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -523,7 +566,8 @@
              x="175.94852"
              y="30.75309"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">+10ans exp.</tspan></text></g></g><g
-       id="g265"><text
+       id="g265"
+       transform="translate(-0.72709104,43.563538)"><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:117.769;display:inline;fill:#edeef1;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="12"
@@ -532,50 +576,50 @@
          transform="translate(72.392797,72.723529)"><tspan
            x="12"
            y="67.833611"
-           id="tspan142">Maintenance et évolution de l'application de diffusion de contenu (mandats immobiliers, </tspan><tspan
+           id="tspan68">Maintenance et évolution de l'application de diffusion de contenu (mandats immobiliers, </tspan><tspan
            x="12"
            y="71.361389"
-           id="tspan143">images, vidéos, plannings d'atelier) à destination des agences immobilières et concessions </tspan><tspan
+           id="tspan69">images, vidéos, plannings d'atelier) à destination des agences immobilières et concessions </tspan><tspan
            x="12"
            y="74.889167"
-           id="tspan144">automobiles.
+           id="tspan70">automobiles.
 </tspan><tspan
            x="12"
            y="78.416946"
-           id="tspan145">
+           id="tspan71">
 </tspan><tspan
            x="12"
            y="81.944725"
-           id="tspan146">Développement de l'application venant en remplacement de l'application de diffusion de </tspan><tspan
+           id="tspan72">Développement de l'application venant en remplacement de l'application de diffusion de </tspan><tspan
            x="12"
            y="85.472503"
-           id="tspan147">contenu actuelle, visant à proposer une interface modernisée, une expérience utilisateur </tspan><tspan
+           id="tspan73">contenu actuelle, visant à proposer une interface modernisée, une expérience utilisateur </tspan><tspan
            x="12"
            y="89.000282"
-           id="tspan148">simplifiée, de nouveaux contenus dont l'intégration des réseaux sociaux, un calendrier de </tspan><tspan
+           id="tspan74">simplifiée, de nouveaux contenus dont l'intégration des réseaux sociaux, un calendrier de </tspan><tspan
            x="12"
            y="92.528061"
-           id="tspan149">diffusion pour aider la programmation de campagnes commerciales et l'intégration de </tspan><tspan
+           id="tspan75">diffusion pour aider la programmation de campagnes commerciales et l'intégration de </tspan><tspan
            x="12"
            y="96.055839"
-           id="tspan150">VistaCreate pour aider à la personnalisation.
+           id="tspan76">VistaCreate pour aider à la personnalisation.
 </tspan><tspan
            x="12"
            y="99.583618"
-           id="tspan151">
+           id="tspan77">
 </tspan><tspan
            x="12"
            y="103.1114"
-           id="tspan152">La liberté dont jouit l'équipe m'a permis de lancer des expérimentations en développement </tspan><tspan
+           id="tspan78">La liberté dont jouit l'équipe m'a permis de lancer des expérimentations en développement </tspan><tspan
            x="12"
            y="106.63918"
-           id="tspan153">Agile, de participer activement à la constitution de l'équipe de développement, et d'établir </tspan><tspan
+           id="tspan79">Agile, de participer activement à la constitution de l'équipe de développement, et d'établir </tspan><tspan
            x="12"
            y="110.16695"
-           id="tspan154">des recommandations en terme d'architecture et design applicatif pour faciliter la </tspan><tspan
+           id="tspan80">des recommandations en terme d'architecture et design applicatif pour faciliter la </tspan><tspan
            x="12"
            y="113.69473"
-           id="tspan155">maintenance et l'évolution des applications.</tspan></text><text
+           id="tspan81">maintenance et l'évolution des applications.</tspan></text><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#febb00;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="84.634331"
@@ -593,9 +637,11 @@
            id="tspan260"
            x="84.517204"
            y="129.94707"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">DÉVELOPPEUR WEB</tspan></text></g></g><g
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">DÉVELOPPEUR WEB FULLSTACK</tspan></text></g></g><g
      id="layer4"
-     style="display:inline"><circle
+     style="display:inline"
+     inkscape:label="photo"
+     sodipodi:insensitive="true"><circle
        style="display:inline;fill:none;fill-opacity:1;stroke:#febb00;stroke-width:1.45;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path239"
        cx="37"
